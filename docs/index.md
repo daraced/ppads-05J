@@ -6,6 +6,7 @@
 * Dara Cedraz     TIA: 31520251
 * Adriano Santos  TIA: 41587634
 * Léticia Souza   TIA: 
+* Fiilipi Luigi   TIA: 31438938
 
 # Documentos
 
