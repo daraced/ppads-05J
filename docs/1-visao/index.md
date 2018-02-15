@@ -6,14 +6,20 @@ esperadas do sistema.
 
 ## Objetivos
 
-* Objetivo 1
+* Objetivo 1 <!-- Possibilitar a gestão do processo de inovação, sobretuto no que se relaciona á captação,
+                  á seleção e ao desenvolvimento de ideis em ambiente colaborativo, junto ao público interior
+                  do Banco do Brasil -->
+                  
 * Objetivo 2
 * Objetivo 3
 * etc.
 
 ## Problema
 
-* Descrição do problema: ___
+* Descrição do problema: ___ <!-- O software de contribuir para o aumento da produtividade
+                                  e para subsidiar o processo decisório nas iniciativas de
+                                  projetos de inovação, provendo funcionalidades que deem efetividade
+                                  às atividades internas. -->
 * Quem é afetado pelo problema: ____
 * Impacto no negócio: ___
 * Benefícios de uma boa solução: ___
@@ -34,7 +40,7 @@ esperadas do sistema.
  
 ## Interessados
 
-* Tipo de interessado 1
+* Tipo de interessado 1 <!-- Fornecedores, seus empregados e representantes. -->
 * Tipo de interessado 2
 * Tipo de interessado 3
 * etc.
@@ -48,9 +54,9 @@ esperadas do sistema.
 
 ## Funcionalidades do produto
 
-* Funcionalidade 1
-* Funcionalidade 2
-* etc.
+* Funcionalidade 1 <!-- Captação de ideis por meio de campanhas e desafios junto ao público interno; -->
+* Funcionalidade 2 <!-- Desenvolvimento de ideias em ambiente colaborativo; -->
+* etc. <!-- Gestão do portifólio de ideias. -->
 
 ## Restrições do projeto
 
