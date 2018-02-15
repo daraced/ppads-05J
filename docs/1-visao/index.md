@@ -40,14 +40,14 @@ esperadas do sistema.
  
 ## Interessados
 
-* Tipo de interessado 1 <!-- Fornecedores, seus empregados e representantes. -->
+* Tipo de interessado 1 
 * Tipo de interessado 2
 * Tipo de interessado 3
 * etc.
 
 ## Usuários
 
-* Tipo de usuário 1
+* Tipo de usuário 1 <!-- Fornecedores, seus empregados e representantes. -->
 * Tipo de usuário 2
 * Tipo de usuário 3
 * etc.
